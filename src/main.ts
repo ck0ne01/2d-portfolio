@@ -61,7 +61,7 @@ k.scene("main", async () => {
           player.onCollide(boundary.name, () => {
             player.isInDialogue = true;
             displayDialogue(
-              DIALOGUE_DATA[boundary.name] as string,
+              DIALOGUE_DATA[boundary.name as keyof typeof DIALOGUE_DATA],
               () => (player.isInDialogue = false),
             );
           });
