@@ -1,4 +1,4 @@
-import { DIALOGUE_DATA, SCALE_FACTOR } from "./constants";
+import { DIALOG_DATA, SCALE_FACTOR } from "./constants";
 import { k } from "./kaplay";
 import { Map } from "./types";
 import { displayDialogue, setCamScale } from "./utils";
@@ -61,7 +61,7 @@ k.scene("main", async () => {
           player.onCollide(boundary.name, () => {
             player.isInDialogue = true;
             displayDialogue(
-              DIALOGUE_DATA[boundary.name as keyof typeof DIALOGUE_DATA],
+              DIALOG_DATA[boundary.name as keyof typeof DIALOG_DATA],
               () => (player.isInDialogue = false),
             );
           });

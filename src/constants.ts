@@ -5,6 +5,7 @@ export const DIALOGUE_DATA = {
     In my freetime I also use Golang. Anyway regardless of the language, I just like programming.
     Here is my <a href="https://github.com/ck0ne01" target="_blank">Github</a>!`,
   "sofa-table": `That's my sofa. I like to relax here, watch YouTube or study spanish.`,
+export const DIALOG_DATA = {
   tv: `That's my TV. I've been watching tech youtubers a lot recently like :
    <a href="https://www.youtube.com/@ThePrimeTimeagen" target="_blank">Theprimeagen</a>, <a href="https://www.youtube.com/@t3dotgg" target="_blank">Theo - t3.gg</a>,
   <a href="https://www.youtube.com/@ByteByteGo" target="_blank">ByteByteGo</a> and <a href="https://www.youtube.com/@MelkeyDev" target="_blank">Melkey</a>!`,
