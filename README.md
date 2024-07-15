@@ -10,6 +10,8 @@ It showcases my skills and projects in an interactive and engaging way.
 - [Vite](https://vitejs.dev/) - Next generation frontend tooling
 - [pnpm](https://pnpm.io/) - Fast, disk space efficient package manager
 - [TypeScript](https://www.typescriptlang.org/) - Typed superset of JavaScript
+- [Tiled](https://www.mapeditor.org/) - Level Editor
+- [Vercel](https://vercel.com/) - Hoster
 
 ## Getting Started
 
