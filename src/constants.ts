@@ -1,7 +1,7 @@
 export const SCALE_FACTOR = 4;
 
 export const DIALOG_DATA = {
-  pc: `This is my Macbook. I work mostly in DevOps and JavaScript/TypeScript projects these days.
+  pc: `This is my Macbook. I work mostly in DevOps and TypeScript projects these days.
     In my freetime I also use Golang and try to sneak it into work ;). Anyway regardless of the language, I just like programming.
     Here is my <a href="https://github.com/ck0ne01" target="_blank">Github</a>! I use neovim btw.`,
   "sofa-table": `Sofa.sh: Loading comfort protocols... ¡Ay caramba! User caught in an infinite loop of comfy cushions and Spanish subjunctives. Escape key temporarily disabled`,
